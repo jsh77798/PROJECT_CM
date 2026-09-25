@@ -104,3 +104,11 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+/TestProject_CardMemory/[Ll]ibrary/
+/TestProject_CardMemory/[Tt]emp/
+/TestProject_CardMemory/[Oo]bj/
+/TestProject_CardMemory/[Bb]uild/
+/TestProject_CardMemory/[Bb]uilds/
+/TestProject_CardMemory/[Ll]ogs/
+/TestProject_CardMemory/[Uu]ser[Ss]ettings/
+

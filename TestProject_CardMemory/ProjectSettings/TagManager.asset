@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Card1
+  - Card2
+  - Card3
+  - Card4
+  - Card5
+  - Card6
+  - Card7
+  - Card8
+  - Card9
+  - Card10
+  - Card11
+  - Card12
+  - Card13
+  - Card14
+  - Card15
+  - Card16
+  - Card17
+  - Card18
+  - Card19
+  - Card20
+  - Card21
+  - Card22
+  - Card23
+  - Card24
+  - Card25
+  - Card26
+  - Card27
+  - Card28
+  - Card29
+  - Card30
+  - Card31
+  - Card32
+  - Card0
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
